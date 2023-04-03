@@ -5,3 +5,4 @@ this file is added directly in github line 4
 this line is added to the file locally and edited in git hub to create conflict line 5
 this line is added to the file locally and edited in git hub to create conflict line 6
 this line is added to the file locally and edited in git hub to create conflict line 7
+this line is added to the file locally conflict did not happen for line 5 to line 7 - line 8
