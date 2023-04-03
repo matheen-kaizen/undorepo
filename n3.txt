@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Notepad 3
 Notepad 3
 Notepad 3
@@ -5,3 +6,11 @@ Notepad 3-2
 Notepad 3-2
 Notepad 3-2
 Notepad 3
+=======
+Notepad 3-0
+Notepad 3-0
+Notepad 3-0
+NOtepad 3-1
+NOtepad 3-1
+NOtepad 3-1
+>>>>>>> 81bc1c821de88ef1fd3ad35f8ba53d5ca0e66392
