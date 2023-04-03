@@ -2,3 +2,6 @@ this file is added directly in github line 1
 this file is added directly in github line 2
 this file is added directly in github line 3
 this file is added directly in github line 4
+this line is added to the file locally line 5
+this line is added to the file locally line 6
+this line is added to the file locally line 7
